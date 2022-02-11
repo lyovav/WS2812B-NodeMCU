@@ -13,3 +13,7 @@
 
 
 ![варіант2_2а](https://user-images.githubusercontent.com/3407229/153587338-2f5fcbcc-230f-41c8-8302-e2ce828ac178.jpg)
+
+Плата > 1 Ампера
+
+https://easyeda.com/v222008/WS2812b_led_strip_controller-5b6d9e5de0324d9a89108fcd10161d9e
