@@ -1,4 +1,6 @@
 # WS2812B-NodeMCU
+Відео 
+https://www.youtube.com/watch?v=hmoZ3z4UWeE
 
 Схема підключення
 
