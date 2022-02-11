@@ -1,4 +1,8 @@
 # WS2812B-NodeMCU
+
+Розробник прошивки 
+https://github.com/Aircoookie/WLED/releases
+
 Відео 
 https://www.youtube.com/watch?v=hmoZ3z4UWeE
 
