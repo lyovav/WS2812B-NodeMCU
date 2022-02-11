@@ -7,4 +7,9 @@
 Варіант 1
 ![zastavka](https://user-images.githubusercontent.com/3407229/153586197-2d031dc8-1cc3-4ef7-8f63-848d270b82e3.jpg)
 
+Варіант 2
 
+
+
+
+![варіант2_2а](https://user-images.githubusercontent.com/3407229/153587338-2f5fcbcc-230f-41c8-8302-e2ce828ac178.jpg)
